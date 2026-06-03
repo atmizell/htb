@@ -9,6 +9,6 @@
 > **Goal**: HTB Junior Cybersecurity Associate Certification - Attain baseline, hands-on knowledge of OCO/DCO
 
 ## Navigation
-### Academy
+### [Academy](https://github.com/atmizell/htb/tree/main/academy)
 ### Labs
 ### CTF Write Ups
